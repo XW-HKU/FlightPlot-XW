@@ -24,7 +24,7 @@ IntelliJ IDEA IDE was used to develop FlightPlot, project files already exist in
  - Track export in KML and GPS format
  - Saving plot as image
 
-Binaries for Linux, Mac OS, Windows can be found on [project homepage](https://pixhawk.org/dev/flightplot#download).
+Binaries for Linux, Mac OS, Windows can be found on the [project homepage](https://github.com/PX4/FlightPlot/releases).
 
 Building from source
 --------------------
