@@ -1,0 +1,6 @@
+1. actuator_controls_0.control[i]: 控制环路的输出，代表pitch, roll, yaw的控制力矩setpoint。
+2. actuator_outputs_0.output[i]:各个电机的pwm输出，i=0,1,2,3分别代表1，2，3，4电机，i=5,6是舵机
+3. vehicle_attitude_0.q[i]:实际姿态（姿态feedback）
+4. vehicle_attitude_setpoint_0.q_d[i]:姿态setpoint
+5. vehicle_attitude_0.pitchspeed:实际pitch角速率（角速率feedback）
+6. vehicle_rates_setpoint_0.pitch:pitch角速度setpoint
